@@ -6,7 +6,7 @@ public class Question6 {
 		int n1=0,n2=1,n3,i,n=20;    
 		 System.out.print(n1+" "+n2);  
 		    
-		 for(i=2;i<n;i++)
+		 for(i=3;i<=n;i++)
 		 {    
 		  n3=n1+n2;    
 		  System.out.print(" "+n3);    
